@@ -1,6 +1,6 @@
 # Hi, I'm Brendan
 
-I'm pursuing an **M.Eng. in Computer Science & Applications at Virginia Tech** (Data Analytics & AI concentration, Dec 2026), after earning my **B.S. in Computer Science from James Madison University**. I like building things that turn data into something people can use, from forecasting market movement to full-stack web apps to VR experiences.
+I'm pursuing an **M.Eng. in Computer Science & Applications at Virginia Tech** (Data Analytics & AI concentration), after earning my **B.S. in Computer Science from James Madison University**. I like building things that turn data into something people can use, from forecasting market movement to full-stack web apps to VR experiences.
 
 **Interests:** machine learning · full-stack web apps · XR / game development
 
